@@ -1,2 +1,8 @@
-# edison_robot-beebot
-A code to transform an Edison Robot to a cheapshake BeeBot
+# Λειτουργικότητα beebot για το ρομπότ Edison v2.0
+Ένα μικρο script για το [edpyapp.com](http://www.edpyapp.com/) που δίνει λειτουργικότητα [beebot](https://www.bee-bot.us/) στο ρομπότ [Edison v2.0](https://meetedison.com/meet-edison-v2-0/)
+
+Λειτουργεί με το τηλεχειριστήριο της τηλεόρασης (δοκιμασμένο με τους κωδικούς για LG).
+
+Με τα 4 βελάκια του τηλεχειριστηρίου της τηλεόρασης καθορίζεται η πορεία που θα ακολουθήσει το Edison-Beebot.
+
+Μόλις ολοκληρωθεί ο καθορισμός της πορείας, μπορείς να πατήσεις το τρίγωνο κουμπί πάνω στον Edison και η διασκέδαση ξεκινά!
